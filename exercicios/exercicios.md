@@ -10,6 +10,12 @@
 https://github.com/jonathanbaraldi/devops
 
 
+20/01/2021 - Ajuste para atender o ambiente de testes.
+- xenserver 6.5
+- ubuntu 20.04
+
+
+
 # Aula 4 - Ambiente
 	
 	Nesta aula, iremos verificar a instalação do Docker, e também iremos revisar a arquitetura do ambiente.
