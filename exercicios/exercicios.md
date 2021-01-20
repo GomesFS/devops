@@ -14,7 +14,10 @@ https://github.com/jonathanbaraldi/devops
 - xenserver 6.5
 - ubuntu 20.04
 
--- hml_rancher-1.13
+-- hml_rancher-1.13 9a:35:ad:76:02:df 
+-- k8s-1 -1.44  12:7b:96:57:f6:24 
+-- k8s-2 - 1.29 8a:27:60:02:32:24
+-- k8s-3 - 1.36 ce:83:9f:36:2b:ad
 
 
 # Aula 4 - Ambiente
