@@ -13,6 +13,7 @@ https://github.com/jonathanbaraldi/devops
 20/01/2021 - Ajuste para atender o ambiente de testes.
 - xenserver 6.5
 - ubuntu 20.04
+
 -- hml_rancher-1.13
 
 
