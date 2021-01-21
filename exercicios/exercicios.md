@@ -22,6 +22,7 @@ https://github.com/jonathanbaraldi/devops
 
 -- k8s-3 | 1.36 | ce:83:9f:36:2b:ad
 
+docker-hub User: gomesfs
 
 # Aula 4 - Ambiente
 	
